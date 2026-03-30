@@ -4,7 +4,7 @@
 
 # Claude Usage CLI
 
-**Monitor your Claude.ai usage limits in real time — прямо from your terminal**
+**Monitor your Claude.ai usage limits in real time — from your terminal**
 
 <br>
 
