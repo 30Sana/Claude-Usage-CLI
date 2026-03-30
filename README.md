@@ -126,7 +126,6 @@ Auto-refresh runs every 20 seconds.
 ## ⚠️ Notes
 
 - `sessionKey` expires periodically — refresh when needed
-- `.env` is ignored via `.gitignore`
 - Relies on internal APIs that may change
 
 ---
@@ -141,7 +140,6 @@ Auto-refresh runs every 20 seconds.
 
 ## 🔒 Security
 
-- Never commit `.env`
 - Do not share credentials
 - Rotate session values if exposed
 
